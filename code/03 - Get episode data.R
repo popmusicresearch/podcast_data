@@ -87,7 +87,7 @@ nrow(podcasts_missing)
 ## [1] 0
 
 #write out the data
-write_rds(episode_data, "data/podcast_episode_data.rds")
+write_rds(episode_data, "data/episode_data.rds")
 
 #Optional housekeeping
 rm(items, podcast_feed, chart, chart_position, 
