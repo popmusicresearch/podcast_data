@@ -5,6 +5,7 @@
 #library(tidyverse)
 #library(DT)
 #library(itunesr)
+#library(xml2)
 
 #Read in the data generated in 01 - Get Chart Data.R if required.
 podcast_info <- readRDS('data/podcast_info.rds')

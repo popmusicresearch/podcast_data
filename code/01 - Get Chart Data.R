@@ -6,6 +6,7 @@ library(rvest)
 library(tidyverse)
 library(DT)
 library(itunesr)
+library(xml2)
 
 #Create the get_podcast_chart function
 get_podcast_chart <- function(chart_url, name) {
