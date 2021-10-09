@@ -39,3 +39,5 @@ podcast_info <- get_podcast_chart(chart_url, chart_name)
 #Write out data as rds file
 write_rds(podcast_info, "data/podcast_info.rds")
 
+#Optional housekeeping: remove chart_url, chart_name and get_podcast_chart
+rm(chart_name, chart_url, get_podcast_chart)
