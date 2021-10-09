@@ -1,9 +1,9 @@
-# Podcast Data 
+# Gathering Apple Podcast Chart, Reviews and Ratings Data
+
+![](www/apple.png)
 
 Gathering data on Apple podcast charts along with episode, review and ratings data for podcasts listed in a given chart on Chartable. For a full explanation of the process see [this post](https://www.popmusicresearch.org/post/rate-review-partone/) on my website.
 
-![](www/apple.png)
-![](www/chartable.png)
 
 ## Scripts
 
