@@ -20,3 +20,7 @@ Using the RSS feed links gathered in the previous step, this script gathers epis
 <b>04 - Get Reviews data</b>
 
 Using the Apple IDs gathered in the step 02, this script gathers reviews data for each podcast, from each of Apple's 155 global national stores. 
+
+<b>05 - Data cleaning and housekeeping</b>
+
+Some basic cleaning and wrangling of the data gathered in the previous scripts. 
