@@ -16,3 +16,7 @@ This script uses the data gathered in the first script to extract RSS feed links
 <b>03 - Get episode data</b>
 
 Using the RSS feed links gathered in the previous step, this script gathers epispode data for each of the podcasts in a given chart. 
+
+<b>04 - Get Reviews data</b>
+
+Using the Apple IDs gathered in the step 02, this script gathers reviews data for each podcast, from each of Apple's 155 global national stores. 
